@@ -22,7 +22,19 @@ O MoveUp será um aplicativo gratuito com treinos em casa, acompanhamento de pro
 
 ## Dados públicos para fundamentação
 - Vigitel — Ministério da Saúde
+É uma pesquisa do Ministério da Saúde que acompanha hábitos da população adulta, incluindo a prática de atividades físicas.
+Vocês podem utilizar os dados para:
+Identificar a frequência de atividade física entre adultos.
+Analisar indicadores de sedentarismo e atividade insuficiente.
+Justificar a importância de um aplicativo que incentive exercícios.
+Dado interessante: no levantamento de 2024, 33,3% dos adultos avaliados apresentaram prática insuficiente de atividade física, segundo o indicador utilizado pelo Vigitel.
+
 - PeNSE — IBGE
+É uma pesquisa realizada pelo IBGE que coleta informações sobre a saúde de estudantes de 13 a 17 anos.
+Vocês podem utilizar os dados para:
+Analisar a prática de atividades físicas entre adolescentes.
+Identificar hábitos relacionados à saúde dos jovens.
+Complementar a justificativa do público-alvo do aplicativo.
 
 ## Tecnologias propostas
 - Java: linguagem de programação utilizada para implementar as funcionalidades e aplicar conceitos de Programação Orientada a Objetos (POO).

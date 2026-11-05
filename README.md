@@ -47,6 +47,9 @@ Complementar a justificativa do público-alvo do aplicativo.
 - Firebase: serviço planejado para autenticação de usuários e armazenamento de dados.
 - Git e GitHub: ferramentas utilizadas para versionamento, organização, documentação e compartilhamento do código-fonte.
 
+## Pitch Inicial — MoveUp
+O **MoveUp** nasce com o objetivo de tornar a prática de atividades físicas mais acessível, ajudando pessoas que enfrentam dificuldades para frequentar academias devido à falta de tempo, recursos financeiros ou motivação. Alinhado à **ODS 3 — Saúde e Bem-Estar**, o aplicativo oferecerá treinos gratuitos para realizar em casa, adaptados a diferentes níveis de condicionamento físico. Seu principal diferencial será a combinação de exercícios acessíveis com um sistema de gamificação, incluindo desafios, acompanhamento de progresso, sequências de dias treinados (*streaks*) e recompensas virtuais chamadas **MoveCoins**. Dessa forma, o MoveUp pretende transformar a atividade física em um hábito mais motivador e constante, incentivando uma vida mais ativa e saudável. **MoveUp — Sua evolução começa em casa.**
+
 ## Identidade visual
 Nome: MoveUp
 Slogan: Sua evolução começa em casa.

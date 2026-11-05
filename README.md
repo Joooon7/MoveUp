@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo-moveup.png" alt="Logo MoveUp" width="350">
+  <img src="logo-moveup.png.png" alt="Logo MoveUp" width="350">
 </p>
 
 # MoveUp — Sua evolução começa em casa.
